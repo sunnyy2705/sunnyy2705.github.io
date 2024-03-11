@@ -1,0 +1,62 @@
+div{
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    left:500px;
+    bottom:350px;
+    border-radius:30px;
+    right: 100px;
+    position: fixed;
+    width: auto;
+    height: auto;
+}
+
+h1{
+    color: rgb(0, 94, 255);
+    position: absolute;
+    left: 330px;
+    bottom:420px;
+    font-size:55px;
+}
+
+h5{
+    position: absolute;
+    top: 355px;
+    right: 380px;
+    font-size: 15px;
+}
+
+p{
+    position: absolute;
+    left: 341px;
+    bottom: 367px;
+    font-size: 25px;
+}
+
+
+.a{
+    height:50px;
+    width: 300px;
+    text-align: center;
+    
+}
+
+#aa{
+    background-color: rgb(0, 94, 255);
+    border-radius: white;
+    text-align: center;
+}
+
+#green{
+    height: 45px;
+    width: 140px;
+    border-radius: 8px;
+    background-color:rgb(94, 255, 0);
+    position: absolute;
+    left: 355px;
+}
+
+
+
+
+
